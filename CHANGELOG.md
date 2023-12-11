@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/james-curtis/ngx-portal/compare/v0.1.5...v0.1.6) (2023-12-11)
+
+
+### Bug Fixes
+
+* update env ([e4269cb](https://github.com/james-curtis/ngx-portal/commit/e4269cb4436c9762c28a66b2b726e7bb8a3b4bb0))
+
 ## [0.1.5](https://github.com/james-curtis/ngx-portal/compare/v0.1.4...v0.1.5) (2023-11-29)
 
 
